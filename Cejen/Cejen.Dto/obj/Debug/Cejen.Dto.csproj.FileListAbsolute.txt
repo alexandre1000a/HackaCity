@@ -12,3 +12,10 @@ C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\bin\Debug\EntityFramework.xml
 C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.csprojResolveAssemblyReference.cache
 C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.dll
 C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\bin\Debug\Cejen.Dto.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\bin\Debug\Cejen.Dto.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\bin\Debug\EntityFramework.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\bin\Debug\EntityFramework.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.csprojResolveAssemblyReference.cache
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.pdb

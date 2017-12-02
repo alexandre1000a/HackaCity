@@ -24,3 +24,15 @@ C:\Users\alexandre\Desktop\Cejen\Cejen.Infra\bin\Debug\EntityFramework.SqlServer
 C:\Users\alexandre\Desktop\Cejen\Cejen.Infra\obj\Debug\Cejen.Infra.csprojResolveAssemblyReference.cache
 C:\Users\alexandre\Desktop\Cejen\Cejen.Infra\obj\Debug\Cejen.Infra.dll
 C:\Users\alexandre\Desktop\Cejen\Cejen.Infra\obj\Debug\Cejen.Infra.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\Cejen.Infra.dll.config
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\Cejen.Infra.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\Cejen.Infra.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\Cejen.Dominio.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\EntityFramework.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\Cejen.Dominio.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\EntityFramework.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\obj\Debug\Cejen.Infra.csprojResolveAssemblyReference.cache
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\obj\Debug\Cejen.Infra.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Infra\obj\Debug\Cejen.Infra.pdb

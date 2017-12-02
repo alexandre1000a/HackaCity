@@ -18,3 +18,13 @@ C:\Users\alexandre\Desktop\Cejen\Cejen.Dominio\bin\Debug\EntityFramework.SqlServ
 C:\Users\alexandre\Desktop\Cejen\Cejen.Dominio\obj\Debug\Cejen.Dominio.csprojResolveAssemblyReference.cache
 C:\Users\alexandre\Desktop\Cejen\Cejen.Dominio\obj\Debug\Cejen.Dominio.dll
 C:\Users\alexandre\Desktop\Cejen\Cejen.Dominio\obj\Debug\Cejen.Dominio.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\Cejen.Dominio.dll.config
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\Cejen.Dominio.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\Cejen.Dominio.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\EntityFramework.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\EntityFramework.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\obj\Debug\Cejen.Dominio.csprojResolveAssemblyReference.cache
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\obj\Debug\Cejen.Dominio.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Dominio\obj\Debug\Cejen.Dominio.pdb

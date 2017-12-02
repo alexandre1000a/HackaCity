@@ -22,3 +22,15 @@ C:\Users\alexandre\Desktop\Cejen\Cejen.Client\bin\Debug\System.Net.Http.Formatti
 C:\Users\alexandre\Desktop\Cejen\Cejen.Client\obj\Debug\Cejen.Client.csprojResolveAssemblyReference.cache
 C:\Users\alexandre\Desktop\Cejen\Cejen.Client\obj\Debug\Cejen.Client.dll
 C:\Users\alexandre\Desktop\Cejen\Cejen.Client\obj\Debug\Cejen.Client.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\Cejen.Client.dll.config
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\Cejen.Client.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\Cejen.Client.pdb
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\EntityFramework.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\EntityFramework.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\Newtonsoft.Json.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\obj\Debug\Cejen.Client.csprojResolveAssemblyReference.cache
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\obj\Debug\Cejen.Client.dll
+D:\Projetos\HackaCyti\HackaCity\Cejen\Cejen.Client\obj\Debug\Cejen.Client.pdb
