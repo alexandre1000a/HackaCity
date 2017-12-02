@@ -57,6 +57,12 @@
     <Compile Include="Comum\IRepositorioBase.cs" />
     <Compile Include="Imagens\IImagemRepository.cs" />
     <Compile Include="Imagens\Imagem.cs" />
+    <Compile Include="Models\Campanha.cs" />
+    <Compile Include="Models\Doacao.cs" />
+    <Compile Include="Models\Recurso.cs" />
+    <Compile Include="Models\TipoRecurso.cs" />
+    <Compile Include="Models\TipoUsuario.cs" />
+    <Compile Include="Models\Usuairo.cs" />
     <Compile Include="Psicografias\Psicografia.cs" />
     <Compile Include="Tema\ITemaRepositorio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
