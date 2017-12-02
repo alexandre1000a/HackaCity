@@ -1,0 +1,94 @@
+﻿
+.full {
+    background-repeat: no-repeat !important;
+    background-size: contain !important;
+    background-size: contain !important;
+    background-position: center!important;
+}.no-padding {
+  padding:0;
+}
+.thumb {
+  background-color: #000;
+  cursor:pointer;
+}
+.thumb:hover:after {
+  content:'\e003';
+  font-family: 'Glyphicons Halflings';
+  font-size: 2em;
+  color: #fff;
+  padding: 1em;
+  position: absolute;
+  top: 0;
+  right: 0;
+  pointer-events: none; /*Careful, this doesn't work on IE<10*/
+}
+.thumb img {
+  -webkit-transition: opacity ease-in .5s;
+  transition: opacity ease-in .5s;
+}
+.thumb img:hover {
+  opacity: .5;
+}
+/* Modals */
+.modal-backdrop.in {
+	opacity: .85;
+	filter: alpha(opacity=85);
+}
+.modal {
+	overflow: hidden;
+}
+.modal-dialog {
+	height:100%;
+	width:100%;
+	margin:0;
+}
+.modal-content {
+	height: 100%;
+	width: 100%;
+  background-color:transparent;
+  border:none;
+  box-shadow:none;
+}
+.modal-body {
+  height: 100%;
+  padding:0;
+}
+.modal-body .img-group {
+  width:90%;
+	position: absolute;
+  top:50%;
+  left:50%;
+  -ms-transform: translate(-50%,-50%);
+  -moz-transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%,-50%);
+  transform: translate(-50%,-50%);
+}
+.img-group .close {
+  color:#fff;
+  background-color:#000;
+  opacity:1;
+  height: 1.5em;
+  width: 1.5em;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+.img-group .img-responsive {
+  width:100%;
+}
+.carousel-indicators {
+  display: none;
+}
+@media (min-aspect-ratio: 16/11) { 
+ .img-group .img-responsive {
+    width:auto;
+    max-width:70%;
+    margin: auto;
+  } 
+  .img-group .close {
+    position:absolute;
+    top:1.5em;
+    right:1.5em;
+    z-index:10;
+  }
+}

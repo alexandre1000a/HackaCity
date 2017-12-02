@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cejen.Dominio", "Cejen.Dominio\Cejen.Dominio.csproj", "{8D0FF04C-79E7-4ABA-B557-433063F23815}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cejen.Infra", "Cejen.Infra\Cejen.Infra.csproj", "{2F901FDF-E55A-411F-8596-5105768BBE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cejen.Web", "Cejen.WebApi\Cejen.Web.csproj", "{82E2565A-2FD8-45D6-A271-40235D24E112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cejen.Client", "Cejen.Client\Cejen.Client.csproj", "{E21A8C22-9FF2-4CB0-98F9-B638904E4C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cejen.Dto", "Cejen.Dto\Cejen.Dto.csproj", "{E0B8CA3D-477E-4E31-98A4-9BBBB30271E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cejen.Business", "Cejen.Business\Cejen.Business.csproj", "{145C0CAE-4CAF-44A8-BFAD-083FA1D3AADA}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://alexandre1000a.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Cejen.Business\\Cejen.Business.csproj
+		SccProjectName1 = Cejen.Business
+		SccLocalPath1 = Cejen.Business
+		SccProjectUniqueName2 = Cejen.Client\\Cejen.Client.csproj
+		SccProjectName2 = Cejen.Client
+		SccLocalPath2 = Cejen.Client
+		SccProjectUniqueName3 = Cejen.Dominio\\Cejen.Dominio.csproj
+		SccProjectName3 = Cejen.Dominio
+		SccLocalPath3 = Cejen.Dominio
+		SccProjectUniqueName4 = Cejen.Dto\\Cejen.Dto.csproj
+		SccProjectName4 = Cejen.Dto
+		SccLocalPath4 = Cejen.Dto
+		SccProjectUniqueName5 = Cejen.Infra\\Cejen.Infra.csproj
+		SccProjectName5 = Cejen.Infra
+		SccLocalPath5 = Cejen.Infra
+		SccProjectUniqueName6 = Cejen.WebApi\\Cejen.Web.csproj
+		SccProjectName6 = Cejen.WebApi
+		SccLocalPath6 = Cejen.WebApi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D0FF04C-79E7-4ABA-B557-433063F23815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0FF04C-79E7-4ABA-B557-433063F23815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0FF04C-79E7-4ABA-B557-433063F23815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0FF04C-79E7-4ABA-B557-433063F23815}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F901FDF-E55A-411F-8596-5105768BBE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F901FDF-E55A-411F-8596-5105768BBE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F901FDF-E55A-411F-8596-5105768BBE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F901FDF-E55A-411F-8596-5105768BBE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E2565A-2FD8-45D6-A271-40235D24E112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E2565A-2FD8-45D6-A271-40235D24E112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E2565A-2FD8-45D6-A271-40235D24E112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E2565A-2FD8-45D6-A271-40235D24E112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E21A8C22-9FF2-4CB0-98F9-B638904E4C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E21A8C22-9FF2-4CB0-98F9-B638904E4C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E21A8C22-9FF2-4CB0-98F9-B638904E4C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E21A8C22-9FF2-4CB0-98F9-B638904E4C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0B8CA3D-477E-4E31-98A4-9BBBB30271E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0B8CA3D-477E-4E31-98A4-9BBBB30271E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0B8CA3D-477E-4E31-98A4-9BBBB30271E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0B8CA3D-477E-4E31-98A4-9BBBB30271E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{145C0CAE-4CAF-44A8-BFAD-083FA1D3AADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{145C0CAE-4CAF-44A8-BFAD-083FA1D3AADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{145C0CAE-4CAF-44A8-BFAD-083FA1D3AADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{145C0CAE-4CAF-44A8-BFAD-083FA1D3AADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

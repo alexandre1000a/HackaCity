@@ -1,0 +1,14 @@
+C:\Projetos\Cejen\Cejen\Cejen.Dto\bin\Debug\Cejen.Dto.dll
+C:\Projetos\Cejen\Cejen\Cejen.Dto\bin\Debug\Cejen.Dto.pdb
+C:\Projetos\Cejen\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.dll
+C:\Projetos\Cejen\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.pdb
+C:\Projetos\Cejen\Cejen\Cejen.Dto\bin\Debug\EntityFramework.dll
+C:\Projetos\Cejen\Cejen\Cejen.Dto\bin\Debug\EntityFramework.xml
+C:\Projetos\Cejen\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.csprojResolveAssemblyReference.cache
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\bin\Debug\Cejen.Dto.dll
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\bin\Debug\Cejen.Dto.pdb
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\bin\Debug\EntityFramework.dll
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\bin\Debug\EntityFramework.xml
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.csprojResolveAssemblyReference.cache
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.dll
+C:\Users\alexandre\Desktop\Cejen\Cejen.Dto\obj\Debug\Cejen.Dto.pdb
